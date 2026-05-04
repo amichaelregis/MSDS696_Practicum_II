@@ -1,9 +1,15 @@
 Created on Sun Apr 26 09:21:26 2026
+
 this code is for Data science Practicum 2
+
 Title of Project : Analyse Federal funding Impact on Broadband Equity
+
 the project processes federal funding allocated at a censusblock group level
+
 creates a funding efficiency Index
+
 output Tableau data that can be plotted on a Tableau dashboard 
+
 @author: amalmichael
 
 note: 
